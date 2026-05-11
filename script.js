@@ -147,7 +147,7 @@ function animateParticles() {
 animateParticles();
 
 const typewriterEl = document.getElementById("typewriter");
-const typewriterTexts = ["Full Stack Developer", "AI & ML Engineer", "Problem Solver", "Tech Enthusiast", "B.Tech Student"];
+const typewriterTexts = ["Database Analyst", "SQL Expert", "Data Visualization Specialist", "BI Developer", "B.Tech Student"];
 let textIndex = 0, charIndex = 0, isDeleting = false, typeSpeed = 100;
 
 function typewrite() {
